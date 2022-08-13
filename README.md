@@ -1,7 +1,7 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://SuhadeepMal.io)
 <h1 align="center">Hi 👋, I'm Subhadeep Mal</h1>
 <h3 align="center">A passionate Machine Learning & Data Science Enthusiast.</h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepmal&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepmal" /> </p>
 
